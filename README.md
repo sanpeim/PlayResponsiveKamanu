@@ -1,4 +1,4 @@
-![screenshot](https://raw.github.com/ics-software-engineering/play-bootstrap-template/master/doc/play-bootstrap-template-home.png)
+![screenshot](https://raw.github.com/sanpeim/PlayResponsiveKamanu/master/doc/kamanu-home-page.png)
 
 Overview
 ---------
